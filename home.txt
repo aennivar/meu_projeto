@@ -1,3 +1,5 @@
 This is a line of text
 Line written in main branch
 Line written in another branch
+
+Line written in local repository
